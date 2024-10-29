@@ -1,6 +1,8 @@
 ### How It Works
 
 We leverage the **Mega.nz API** to provide seamless access to Mega leaks. By integrating this API with your AdMaven token, we automate the process of posting your links to **Telegram** and **Discord** simultaneously via POST requests.
+To access of that bot;
+-->  https://discord.gg/Z2eZxXbUaS
 
 ---
 
