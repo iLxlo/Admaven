@@ -1,24 +1,3 @@
-<details type="reasoning" done="true" duration="1">
-<summary>Thought for 1 seconds</summary>
-> Alright, I'll create a README.md file for the AdMaven Auto Poster project. Let me organize the structure:
-> 
-> 1. Project logo/banner
-> 2. Introduction
-> 3. Features
-> 4. Setup instructions 
-> 5. Configuration
-> 6. Usage guide
-> 7. Commands
-> 8. Troubleshooting
-> 9. FAQ
-> 10. Support
-> 11. License
-> 
-> I'll format it with proper Markdown syntax, including code blocks, tables, lists, and emphases where appropriate.
-> 
-> Let's create a comprehensive README.md:
-</details>
-# AdMaven Auto Poster
 
 <p align="center">
   <img src="https://i.imgur.com/YourLogoHere.png" alt="AdMaven Auto Poster Logo" width="500"/>
