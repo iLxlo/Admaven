@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/YourLogoHere.png" alt="AdMaven Auto Poster Logo" width="500"/>
+  <img src="https://images-ext-1.discordapp.net/external/yH1z1A0RIc5fdp15jizsEpTJrOR_xc2OWha08ZbSqqQ/%3Fsize%3D1024/https/cdn.discordapp.com/icons/927608867871920169/61beaa0a7cf5b779ed9c29b7bf45de39.png?format=webp&quality=lossless" alt="AdMaven Auto Poster Logo" width="500"/>
   <br>
   <b>Automated Discord & Telegram Posting System for AdMaven Publishers</b>
 </p>
