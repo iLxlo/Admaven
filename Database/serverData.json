@@ -1,0 +1,31 @@
+{
+  "1233": [
+    {
+      "webhooks": "kanal link",
+      "telegram_token": "bot tokeni",
+      "telegram_channel": ""
+    }
+  ],
+  "1198340304449847500": [
+    {
+      "_v": "1",
+      "webhook": "1288224629525053470"
+    },
+    {
+      "_v": "0",
+      "telegram_token": "7310281053:AAHqFE-yZyH3uh9X_vzGrWM_jhu0rOJj1h4",
+      "telegram_channel": "tiktokteenbops"
+    }
+  ],
+  "1291875870520115271": [
+    {
+      "_v": "1",
+      "webhook": "1292069088310460426"
+    },
+    {
+      "_v": "0",
+      "telegram_token": "7476393827:AAGvzKPyvnApoAKvcTq30jucSZvmtktr03E",
+      "telegram_channel": "@tiktokteenbops"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "axios": "^1.7.7",
+    "cron": "^3.1.7",
+    "discord-api-types": "^0.37.101",
+    "discord.js": "^14.16.3",
+    "mongoose": "^8.7.0",
+    "node-fetch": "^2.7.0",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
